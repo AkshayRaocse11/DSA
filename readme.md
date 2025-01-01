@@ -23,9 +23,3 @@ The following problems related to arrays are solved and placed in the `Arrays` f
   Description: Solves the problem of calculating the total amount of rainwater trapped between buildings after rainfall.
 
 ---
-
-### How to Run the Code
-
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/algorithm-solutions.git
