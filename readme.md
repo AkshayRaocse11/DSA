@@ -4,10 +4,10 @@ This repository contains various algorithmic problems solved using JavaScript. T
 
 ## Table of Contents
 
-- [Arrays](#arrays)
-- [Matrices](#matrices)
+- [1.Arrays](#arrays)
+- [2.Matrices](#matrices)
 
-## Arrays
+## 1.Arrays
 
 The following problems related to arrays are solved and placed in the `Arrays` folder:
 
@@ -23,7 +23,7 @@ The following problems related to arrays are solved and placed in the `Arrays` f
   File: [`Arrays/rainwaterTrapping.js`](./Arrays/3.Trapping%20Rain%20Water.js)  
   Description: Solves the problem of calculating the total amount of rainwater trapped between buildings after rainfall.
 
-## Matrices
+## 2.Matrices
 
 The following matrix-related problems are solved and placed in the `Matrices` folder:
 
