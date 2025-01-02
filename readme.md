@@ -28,19 +28,19 @@ The following problems related to arrays are solved and placed in the `Arrays` f
 The following matrix-related problems are solved and placed in the `Matrices` folder:
 
 - **Row-Wise Matrix Search**  
-  File: [`Matrices/rowWiseMatrixSearch.js`](./Arrays/4.Row-Wise%20Matrix%20Search%20.js)  
+  File: [`Matrices/rowWiseMatrixSearch.js`](./Matrices/4.Row-Wise%20Matrix%20Search%20.js)  
   Description: Given a matrix where each row is sorted, find if a target value exists in the matrix.
 
 - **Find Row with Maximum Number of 1's**  
-  File: [`Matrices/rowWithMaxNumberOFones.js`](/Arrays/5.Row%20with%20Maximum%20Number%20of%201's.js)  
+  File: [`Matrices/rowWithMaxNumberOFones.js`](./Matrices/5.Row%20with%20Maximum%20Number%20of%201's.js)  
   Description: Given a binary matrix where each row is sorted, find the row with the maximum number of 1's.
 
 - **Print Spiral Matrix**  
-  File: [`Matrices/printSpiralMatrix.js`](./Arrays/6.Print%20Spiral%20Matrix.js)  
+  File: [`Matrices/printSpiralMatrix.js`](./Matrices/6.Print%20Spiral%20Matrix.js)  
   Description: Print the elements of a matrix in a spiral order.
 
 - **Find Sum of All Submatrices**  
-  File: [`Matrices/findSumOfAllSubMatrices.js`](./Arrays/7.Find%20Sum%20of%20All%20Submatrices%20.js)  
+  File: [`Matrices/findSumOfAllSubMatrices.js`](./Matrices/7.Find%20Sum%20of%20All%20Submatrices%20.js)  
   Description: Given a matrix, find the sum of all possible submatrices.
 
 
