@@ -26,6 +26,17 @@ The following problems related to arrays are solved and placed in the `Arrays` f
 ## 2.Matrices
 
 The following matrix-related problems are solved and placed in the `Matrices` folder:
+- **Find Missing Number**  
+  File: [`Matrices/Find Missing Number.js`](./2.%20Matrices/1.%20Find%20Missing%20Number.jss) 
+  Description: Identifies the smallest missing positive number in an unsorted array.
+
+  - **Merge Sorted Intervals**  
+  File: [`Matrices/mergeSortedIntervals.js`](./2.%20Matrices/3.%20Merge%20sorted%20intervals.js)
+  Description: Merges a given target interval with overlapping intervals in a sorted list of intervals.
+
+  - **Merge Intervals at Middle**  
+  File: [`Matrices/mergeIntervalsAtMiddle.js`](./2.%20Matrices/2.%20Merge%20sorted%20intervals%20for%20given%20element.js) 
+  Description: Merges overlapping intervals in a sorted list to produce a list of non-overlapping intervals.
 
 - **Row-Wise Matrix Search**  
   File: [`Matrices/rowWiseMatrixSearch.js`](./2.%20Matrices/4.Row-Wise%20Matrix%20Search%20.js)  
