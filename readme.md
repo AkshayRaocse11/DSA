@@ -53,5 +53,28 @@ The following matrix-related problems are solved and placed in the `Matrices` fo
 - **Find Sum of All Submatrices**  
   File: [`Matrices/findSumOfAllSubMatrices.js`](./2.%20Matrices/7.Find%20Sum%20of%20All%20Submatrices%20.js)  
   Description: Given a matrix, find the sum of all possible submatrices.
+  
+## 2.Bit Manipulation
+     The following matrix-related problems are solved and placed in the `Bit Manipulation` folder:
+
+    - **Find nth Magic Number**  
+      File: [`Bit Manipulation/findNthNumberMagicNumber`](./3.%20Bit%20Manipulation/1.%20Find%20nth%20Magic%20Number.js) 
+      Description: A magic number is a sum of unique powers of 5, determined by the binary representation of an integer.
+
+    - **Unset x bits from right**  
+      File: [`Bit Manipulation/Unsetxbitsfromright`](./3.%20Bit%20Manipulation/2.Unset%20x%20bits%20from%20right.js) 
+      Description: Given an integer A. Unset B bits from the right of A in binary.
+
+    - **Unset i-th bit**  
+      File: [`Bit Manipulation/Unsetxbitsfromright`](./3.%20Bit%20Manipulation/3.%20Unset%20i-th%20bit%20.js) 
+      Description: You are given two integers A and B.
+                    If B-th bit in A is set, make it unset.
+                    If B-th bit in A is unset, leave as it is.
+                    Return the updated A value.     
+
+    
+
+
+
 
 
